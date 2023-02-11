@@ -1,1 +1,1 @@
-# Digits-Recognition-using-VM-and-Neural-Network
+# Digits-Recognition-using-SVM-and-Neural-Network
